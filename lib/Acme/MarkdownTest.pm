@@ -9,7 +9,9 @@ use strict;
 use warnings;
 use 5.006;
 
-=format markdown
+=pod
+
+=begin markdown
 
 # NAME
 
@@ -69,6 +71,8 @@ This software is copyright (c) 2021 by Neil Bowers.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
+
+=end markdown
 
 =cut
 
